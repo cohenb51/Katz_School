@@ -16,3 +16,5 @@ in sights that are secure, but only present in a few phishing site.
 In the second notebook we look at precipitation data from the month of September in 2019.
 We found that most states seemed to have more precipitation than normal
 with the biggest difference in Barrow, AK with around 2.67 times more.
+
+The data section in the notebook contains the data used in the phishing notebook, the data split into phishing and non-phishing, and the cleaned percipitation data. The original percipitation data was obtained from a government website via the url https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/cdus/prcp_temp_tables/mctyprcp.txt
