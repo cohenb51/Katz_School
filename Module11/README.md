@@ -13,9 +13,11 @@ and C the most severe)
 
 We visualize number of incidents per zip code with a geographical map and a bar graph.
 
-Note that in order to view the map you need a free mapbox token.
+Note that in order to run the map cell you need a free mapbox token.
 See https://docs.mapbox.com/help/how-mapbox-works/access-tokens/
 and here https://account.mapbox.com/auth/signup/ to make an account.
 
 I've attached static versions of these graphs in this repo.
+See here https://nbviewer.jupyter.org/github/cohenb51/Katz_School/blob/3096de059c4a251848ce84203db2b6fd3f092c0e/Module11/PlotlyGraphs.ipynb
+for the dynamic notebook. 
 
