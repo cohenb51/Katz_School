@@ -11,3 +11,11 @@ The data describes several housing violations found in NY and provides details i
 (broken down by boro, and address), how severe it was (broken down into 3 classes, A,B,C where A is least severe 
 and C the most severe)
 
+We visualize number of incidents per zip code with a geographical map and a bar graph.
+
+Note that in order to view the map you need a free mapbox token.
+See https://docs.mapbox.com/help/how-mapbox-works/access-tokens/
+and here https://account.mapbox.com/auth/signup/ to make an account.
+
+I've attached static versions of these graphs in this repo.
+
